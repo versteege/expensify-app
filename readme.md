@@ -6,6 +6,9 @@
 # Build
 # Build for pod: yarn run build:prod
 
+# Run prod server with node
+# node server/server.js
+
 # SSH
 # CHECK: ls -a ~/.ssh
 # CREATE: ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
