@@ -9,6 +9,11 @@
 # Run prod server with node
 # node server/server.js
 
+# Heroku
+# push app to heroku: git push heroku master
+# Start app: heroku open
+# Logs: heroku logs
+
 # SSH
 # CHECK: ls -a ~/.ssh
 # CREATE: ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
