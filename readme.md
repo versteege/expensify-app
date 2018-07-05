@@ -1,5 +1,6 @@
 # Server commands
 # Run/start server from public folder -> live-server public = yarn run serve
+# RUN DEV SERVER: yarn run dev-server
 # Port output of specific script to src/app.js -> babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
 # Run jest tests in watch mode: yarn test -o --watch
 
@@ -8,6 +9,10 @@
 
 # Run prod server with node
 # node server/server.js
+
+# Reinstall node_modules
+# yarn install --production
+# yarn install
 
 # Heroku
 # push app to heroku: git push heroku master
